@@ -19,5 +19,5 @@ democratic, form.
 
 <p align="center" width="70%">
 <a href="https://www.vr.se/en" target="_blank"><img src="/images/logo-en-vr.png" alt="Vetenskaps Rådet" height=60></a>
-<a href="https://www.lunduniversity.lu.se/" target="_blank"><img src="i/mages/logo-en-lund.png" alt="Lund University" height=60 style="float: right"></a>
+<a href="https://www.lunduniversity.lu.se/" target="_blank"><img src="/images/logo-en-lund.png" alt="Lund University" height=60 style="float: right"></a>
 <p>
